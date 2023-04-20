@@ -1,0 +1,2 @@
+# arkanoid.inf
+For school
